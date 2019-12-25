@@ -20,7 +20,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign, getter=isCalloutViewHidden) BOOL calloutViewHidden;
 
 - (instancetype)init;
-- (instancetype)initWithImage:(UIImage *)image;
 
 - (instancetype)initWithFrame:(CGRect)frame UNAVAILABLE_ATTRIBUTE; 
 

@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TencentMapMobilitySDK"
-  spec.version      = "0.9.1"
+  spec.version      = "1.0.0"
   spec.summary      = "This is TencentMapMobilitySDK."
   spec.homepage     = "https://lbs.qq.com"
   spec.license      = {:type => "CopyRight", :text => "Copyright © 1998-2019 Tencent All Rights Reserved"}
@@ -17,6 +17,6 @@ Pod::Spec.new do |spec|
 
   spec.frameworks  = "UIKit", "CoreLocation"
 
-  spec.dependency "TencentMap-SDK", "~> 4.2.6.2"
+  spec.dependency "TencentMap-SDK"
 
 end

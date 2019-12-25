@@ -16,7 +16,7 @@
 #ifndef TencentMapMobilityVersion_h
 #define TencentMapMobilityVersion_h
 
-#define TencentMapMobilityVersionNumber    00090000
+#define TencentMapMobilityVersionNumber    010000
 
 // SDK版本
 FOUNDATION_EXTERN NSString * const TencentMapMobilityVersion;
